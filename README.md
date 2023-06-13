@@ -1,4 +1,7 @@
-### Hi there 👋
+### Profile
+Jacob Kearin's SageGlass account
+
+main: jacobkearin
 
 <!--
 **jkearin-sage/jkearin-sage** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
